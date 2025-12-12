@@ -1,0 +1,201 @@
+I want you to create a complete website for our product using the information below. The output should include:
+
+Homepage
+
+Product Features page
+
+F&B Module page
+
+Pricing section
+
+Sustainability Badge page
+
+About Us page
+
+Contact / Demo Request section
+
+Clean, modern, minimal UI
+
+Tone: simple, trustworthy, tech-enabled, built for small businesses
+
+Industry: ESG + AI SaaS
+
+Target user: Restaurant owners, café operators, cloud kitchens, small food businesses
+
+PRODUCT INFORMATION (Use as core content)
+Product Name:
+
+AI-powered, financially integrated ESG Platform for SMEs
+(Focus on Food & Beverage as first industry)
+
+Vision
+
+A lightweight AI platform that helps SMEs measure, improve, and prove their ESG performance — and convert sustainability actions into profitability.
+
+Problem
+
+SMEs face pressure from lenders, buyers, and regulators to provide ESG data — but they lack simple tools to measure environmental, social, and governance metrics or link them to financial outcomes.
+
+Solution
+
+A unified AI platform that:
+
+Ingests POS, inventory, HR, and supplier data
+
+Normalizes ESG KPIs
+
+Maps them to P&L, margins, and forecasts
+
+Provides investor-ready ESG scorecards and reports
+
+Helps SMEs show that sustainability drives profit, not cost
+
+🟦 WEBSITE COPY SECTIONS (Generate clean UI with these messages)
+⭐ HOMEPAGE — Hero Section
+
+Headline: “The AI ESG Platform That Turns Sustainability Into Profit”
+
+Subtext: “Designed for restaurants, cafés, and cloud kitchens. Generate ESG data in minutes — no systems required.”
+
+CTA Buttons: “Request Demo” / “Get Early Access”
+
+Add icons: Waste • Hygiene • Energy • Water • Staff
+
+⭐ Core Value Proposition
+
+Turn ESG Into Profit – Reduce waste, improve staff retention, optimise operations
+
+Fast Access to Capital – Investor-grade ESG reports & supplier scorecards
+
+Compliance Made Simple – Automated ESG metrics & regulatory-ready documentation
+
+⭐ MVP Features (Build these pages)
+1. ESG Data Hub
+
+Manual data entry (energy, water, staff)
+
+File uploads (PDF/JPG/CSV)
+
+AI extraction from utility bills
+
+Data validation
+
+2. ESG Metrics Engine
+
+Electricity → CO₂e conversion
+
+Water usage → environmental indicators
+
+Waste → emissions + cost
+
+Social metrics (hiring, attrition, training hours)
+
+3. Dashboards & Scorecards
+
+Energy trends
+
+Water trends
+
+Waste & hygiene tracking
+
+Alerts
+
+Auto-generated ESG Scorecard
+
+4. AI ESG Assistant
+
+Guides users step-by-step
+
+Explains ESG metrics
+
+Suggests improvements
+
+Helps fill missing data
+
+5. ESG Report Generation
+
+Auto-generated PDF/Excel
+
+Charts, narratives, KPIs
+
+Ready for investors & suppliers
+
+6. Sustainability Badge (QR Code)
+
+Public badge
+
+Dynamic ESG highlights page
+
+Monthly automatic updates
+
+Customer trust-builder
+
+🟩 F&B MODULE PAGE (Industry-specific)
+Waste Logging
+
+60-second “Add Waste Entry”
+
+Type, quantity, reason, notes
+
+Photo-upload → AI categorisation
+
+AI quantity estimation
+
+Hygiene Checklists
+
+Kitchen cleanliness
+
+Food storage
+
+Staff hygiene
+
+Expiry checks
+
+Missed-task alerts
+
+Energy & Water Tracking
+
+Upload bills → AI extracts data
+
+Trend charts
+
+Staff Logging
+
+Staff count
+
+New hires
+
+Attrition
+
+Training hours
+
+🟧 ABOUT US SECTION
+
+We are building a multi-industry ESG platform starting with F&B as the early adopter segment. Our mission is to make ESG reporting simple, affordable, and financially meaningful for SMEs worldwide.
+
+🟪 PRICING SECTION (Create clean tier cards)
+
+Basic (59 GBP/yr) – ESG Logs, Scorecard, Reports
+
+Pro (109 GBP/yr) – AI Assistant, F&B Module
+
+Plus (209 GBP/yr, 249 GBP/yr from Year 5) – Multi-site, Team access, Advanced analytics
+
+🟫 CTA Section
+
+“Join the Early Access Program”
+“Get Your ESG Score in 5 Minutes”
+
+🟥 DESIGN INSTRUCTIONS FOR THE WEBSITE BUILDER
+
+Minimal white/blue/black palette
+
+Vector icons, no stocky photos
+
+Add dashboard mockup images using AI placeholders
+
+Clean cards, soft shadows
+
+Modern SaaS layout like Notion / Linear / Stripe
+
+Use emoji sparingly for friendliness
