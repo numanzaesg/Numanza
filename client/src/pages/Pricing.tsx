@@ -46,8 +46,7 @@ export default function Pricing() {
         "Dedicated Account Manager"
       ],
       cta: "Contact Sales",
-      featured: false,
-      note: "£249/yr from Year 5"
+      featured: false
     }
   ];
 
@@ -87,7 +86,6 @@ export default function Pricing() {
                 <div className="mb-8">
                   <span className="text-4xl font-bold">£{tier.price}</span>
                   <span className="text-muted-foreground">/year</span>
-                  {tier.note && <p className="text-xs text-muted-foreground mt-1">{tier.note}</p>}
                 </div>
 
                 <ul className="mb-8 flex-1 space-y-4">
