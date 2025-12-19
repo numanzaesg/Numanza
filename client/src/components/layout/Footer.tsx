@@ -8,10 +8,10 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="h-6 w-6 rounded bg-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-xs">E</span>
+                <span className="text-primary-foreground font-bold text-xs">N</span>
               </div>
               <span className="font-display font-bold text-lg">
-                EcoMetric AI
+                Numanza
               </span>
             </div>
             <p className="text-sm text-muted-foreground max-w-xs">
@@ -49,7 +49,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-12 border-t pt-8 text-center text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} EcoMetric AI. All rights reserved.
+          &copy; {new Date().getFullYear()} Numanza. All rights reserved.
         </div>
       </div>
     </footer>

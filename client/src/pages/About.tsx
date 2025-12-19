@@ -16,7 +16,7 @@ export default function About() {
           <div className="container mx-auto px-4 md:px-6 max-w-7xl relative z-10">
             <div className="max-w-3xl">
               <div className="inline-flex items-center rounded-full border bg-background/50 backdrop-blur-sm px-3 py-1 text-sm font-medium text-primary mb-6">
-                About EcoMetric AI
+                About Numanza
               </div>
               <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl mb-6">
                 Making sustainability <span className="text-primary">profitable</span> for every business.
