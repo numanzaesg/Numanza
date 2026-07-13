@@ -85,7 +85,7 @@ export default function Pricing() {
 
                 <div className="mb-8">
                   <span className="text-4xl font-bold">£{tier.price}</span>
-                  <span className="text-muted-foreground">/year</span>
+                  <span className="text-muted-foreground">/month</span>
                 </div>
 
                 <ul className="mb-8 flex-1 space-y-4">
