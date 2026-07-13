@@ -82,7 +82,7 @@ export default function About() {
                 </div>
                 <h3 className="text-2xl font-bold mb-4">Why Food & Beverage?</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Restaurants and cafés operate on thin margins and generate significant waste. They are the perfect testing ground for our thesis: that reducing waste and energy use directly correlates to a healthier bottom line.
+                  Restaurants and cafes operate on thin margins and generate significant waste. They are the perfect testing ground for our thesis: that reducing waste and energy use directly correlates to a healthier bottom line.
                 </p>
               </div>
             </div>

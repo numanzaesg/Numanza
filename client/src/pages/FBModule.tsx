@@ -19,7 +19,7 @@ export default function FBModule() {
             </div>
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">F&B Module</h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Tailored tools for restaurants, cafés, and cloud kitchens to manage waste, hygiene, and staff effectively.
+              Tailored tools for restaurants, cafes, and cloud kitchens to manage waste, hygiene, and staff effectively.
             </p>
           </div>
         </section>

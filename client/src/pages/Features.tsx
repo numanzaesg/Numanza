@@ -109,7 +109,7 @@ export default function Features() {
           <div className="mt-24 rounded-3xl bg-secondary/50 p-12 text-center">
             <h2 className="text-3xl font-bold mb-6">Specialized for Food & Beverage</h2>
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Check out our industry-specific module designed for restaurants, cafés, and cloud kitchens.
+              Check out our industry-specific module designed for restaurants, cafes, and cloud kitchens.
             </p>
             <Button size="lg" asChild>
               <Link href="/fb-module">Explore F&B Module</Link>
